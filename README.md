@@ -1,4 +1,4 @@
-Ahoy, matey
+<h1>Ahoy, matey</h1>
 
 ![TABREZ SAYED](https://user-images.githubusercontent.com/114156392/201528228-628ea20e-e6aa-4159-a262-f588bd5aaa4a.png)
 
