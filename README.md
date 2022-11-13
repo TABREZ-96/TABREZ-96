@@ -8,7 +8,9 @@ In search Tech🌌......!
 
 📫 How to reach me:
 ![email_4_5](https://user-images.githubusercontent.com/114156392/201528605-41826735-01dd-4f30-b510-c6e7e5280762.png)
+  
   1. E-Mail me: tabrez78546@gmail.com
+  
   2.Linkdin: https://www.linkedin.com/in/tabrez-sayed-%F0%9F%8E%93-b661641b8/
                                                                                                                    
 
