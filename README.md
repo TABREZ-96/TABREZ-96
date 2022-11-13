@@ -7,7 +7,8 @@ I'm a 4th Year CSE Ungergrad who is passionate about making contributing to open
 In search Tech🌌......!
 
 📫 How to reach me:
-![email2](https://user-images.githubusercontent.com/114156392/201528287-ce3bb6b5-be72-44c4-b31b-32d97c2673f4.png)
+![email_2_11](https://user-images.githubusercontent.com/114156392/201528523-f731c235-c191-4733-b5bb-dd39dabe5072.png)
+
   1. E-Mail me: tabrez78546@gmail.com
   2.Linkdin: https://www.linkedin.com/in/tabrez-sayed-%F0%9F%8E%93-b661641b8/
                                                                                                                    
