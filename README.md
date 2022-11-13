@@ -1,4 +1,4 @@
-<h1>Ahoy, matey</h1>
+<h1>Ahoy, matey 🌠</h1>
 
 ![TABREZ SAYED](https://user-images.githubusercontent.com/114156392/201528228-628ea20e-e6aa-4159-a262-f588bd5aaa4a.png)
 
@@ -7,7 +7,7 @@ I'm a 4th Year CSE Ungergrad who is passionate about making contributing to open
 In search Tech🌌......!
 
 📫 How to reach me:
-![email_4_5](https://user-images.githubusercontent.com/114156392/201528605-41826735-01dd-4f30-b510-c6e7e5280762.png)
+<small>![email_4_5](https://user-images.githubusercontent.com/114156392/201528605-41826735-01dd-4f30-b510-c6e7e5280762.png)</small>
   
   1. E-Mail me: tabrez78546@gmail.com
   
