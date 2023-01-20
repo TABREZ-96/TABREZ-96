@@ -43,12 +43,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TABREZ-96&show_icons=true&locale=en&layout=compact" alt="TABREZ-96" /></p>
 
-[![Tabrez's github stats](https://github-readme-stats.vercel.app/api?username=TABREZ-96)]
+[![Tabrez's github stats](https://github-readme-stats.vercel.app/api?username=TABREZ-96&theme=highcontrast&show_icons=true&count_private=true)]
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TABREZ-96)](https://github.com/TABREZ-96/github-readme-stats)]
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TABREZ-96&show_icons=true&locale=en" alt="TABREZ-96" /></p>
                                                                                               
 
 
