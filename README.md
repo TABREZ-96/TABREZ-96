@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Python, Java , MERN**
 
-- 📫 How to reach me **tabrez78546@gmail.com**
+- 📫 How to reach me [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tabrez78546@gmail.com)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1S8MGjBBPn-8mX4a37MGhQ5WgjDhvAk_A/view?usp=sharing](https://drive.google.com/file/d/1S8MGjBBPn-8mX4a37MGhQ5WgjDhvAk_A/view?usp=sharing)
 
@@ -25,7 +25,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
+  [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/TABREZx96)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tabrez-sayed-b661641b8/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tabrez78546@gmail.com)
 <a href="https://www.leetcode.com/tabrez__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tabrez__" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/tabrez sayed @tabrez78546" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="tabrez sayed @tabrez78546" height="30" width="40" /></a>
 </p>
