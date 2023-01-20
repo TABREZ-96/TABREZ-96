@@ -1,4 +1,4 @@
-<h1>Ahoy, matey 🌠</h1>
+
 
 ![TABREZ SAYED](https://user-images.githubusercontent.com/114156392/201528228-628ea20e-e6aa-4159-a262-f588bd5aaa4a.png)
 
@@ -25,7 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tabrez sayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tabrez sayed" height="30" width="40" /></a>
+<img src="https://camo.githubusercontent.com/6bc9c8f0b80318b689a198e3faae93cd709b1b382f3e4537ebf83c92fc84db3e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d736f6d696c6a61696e372d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f736f6d696c2d6a61696e372f" alt="Linkedin: somiljain7" data-canonical-src="https://img.shields.io/badge/-somiljain7-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/tabrez-sayed-b661641b8/" style="max-width: 100%;">
+  
 <a href="https://www.leetcode.com/tabrez__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tabrez__" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/tabrez sayed @tabrez78546" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="tabrez sayed @tabrez78546" height="30" width="40" /></a>
 </p>
