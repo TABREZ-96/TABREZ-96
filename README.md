@@ -24,7 +24,7 @@
 - 📄 Know about my experiences [![Resume](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://drive.google.com/file/d/1S8MGjBBPn-8mX4a37MGhQ5WgjDhvAk_A/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a food lover and I can cook 10 different cuisines**
-https://drive.google.com/file/d/1S8MGjBBPn-8mX4a37MGhQ5WgjDhvAk_A/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
