@@ -43,7 +43,7 @@
 
 ![Tabrez's github stats](https://github-readme-stats.vercel.app/api?username=TABREZ-96&theme=highcontrast&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TABREZ-96&layout=compact)](https://github.com/TABREZ-96/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TABREZ-96&layout=compact)
 
                                                                                               
 
