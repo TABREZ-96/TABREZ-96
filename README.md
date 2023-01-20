@@ -21,7 +21,7 @@
 
 - 📫 How to reach me [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tabrez78546@gmail.com)
 
-- 📄 Know about my experiences [![Resume](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)(https://drive.google.com/file/d/1S8MGjBBPn-8mX4a37MGhQ5WgjDhvAk_A/view?usp=sharing)]
+- 📄 Know about my experiences [![Resume](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://drive.google.com/file/d/1S8MGjBBPn-8mX4a37MGhQ5WgjDhvAk_A/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a food lover and I can cook 10 different cuisines**
 https://drive.google.com/file/d/1S8MGjBBPn-8mX4a37MGhQ5WgjDhvAk_A/view?usp=sharing)
