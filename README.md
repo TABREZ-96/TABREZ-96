@@ -5,7 +5,7 @@
 <h1 align="center">Ahoy, matey 🌠 I'm Tabrez Sayed</h1>
 <h3 align="center">Transforming ideas into reality with code💻</h3>
 <div align="center">
-  <img src="https://media.giphy.com/media/K7StRcr7hagJpXROmb/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif" width="600" height="300"/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabrez-96&label=Profile%20views&color=0e75b6&style=flat" alt="tabrez-96" /> </p>
 
