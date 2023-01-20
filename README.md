@@ -4,15 +4,15 @@
 
 <h1 align="center">Ahoy, matey 🌠 I'm Tabrez Sayed</h1>
 <h3 align="center">Transforming ideas into reality with code💻</h3>
+<div align="Right">
+  <iframe src="https://giphy.com/embed/K7StRcr7hagJpXROmb" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bombaysoftwares-developer-software-engineer-full-stack-K7StRcr7hagJpXROmb">via GIPHY</a></p>" 
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabrez-96&label=Profile%20views&color=0e75b6&style=flat" alt="tabrez-96" /> </p>
 
 - 🔭 I’m currently working on **SnapRecipie**
 
 - 🌱 I’m currently learning **JAVA,Python,AI & Exploring Chat-gpt and some other Ai Tools**
-<div align="Right">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="200"/>
-</div>
 
 - 👯 I’m looking to collaborate on **I am always open to new opportunities to collaborate on projects and learn from other developers. I am particularly interested in working on projects related to: - Web development - Machine learning - Artificial Intelligence - Internet of Things If you have a project that you think I would be a good fit for, please don't hesitate to reach out to me. I am available for both short-term and long-term collaborations. Let's build something great together!**
 
