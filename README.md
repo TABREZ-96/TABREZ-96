@@ -35,6 +35,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tabrez-96&show_icons=true&locale=en&layout=compact" alt="tabrez-96" /></p>
 
+![Tabrez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tabrez_96&show_icons=true&theme=radical)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tabrez-96&show_icons=true&locale=en" alt="tabrez-96" /></p>
                                                                                               
 
