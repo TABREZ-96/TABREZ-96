@@ -9,7 +9,7 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabrez-96&label=Profile%20views&color=0e75b6&style=flat" alt="tabrez-96" /> </p>
 
-- 🔭 I’m currently working on **SnapRecipie**
+- 🔭 I’m currently working on **SnapChef**
 
 - 🌱 I’m currently learning **JAVA,Python,AI & Exploring Chat-gpt and some other Ai Tools**
 
@@ -17,14 +17,14 @@
 
 - 🤝 I’m looking for help with **I am currently working on several projects and I am always looking for help and contributions. I am particularly interested in finding people who can help me with: - Web development - Machine learning - Artificial Intelligence - Internet of Things If you have experience in any of these areas and you want to contribute to my projects, please don't hesitate to reach out to me. I am looking for both short-term and long-term contributions. Let's build something great together!**
 
-- 💬 Ask me about [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)] ,** Java , C++, MERN**
+- 💬 Ask me about ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) **Java , C++, MERN**
 
 - 📫 How to reach me [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tabrez78546@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S8MGjBBPn-8mX4a37MGhQ5WgjDhvAk_A/view?usp=sharing](https://drive.google.com/file/d/1S8MGjBBPn-8mX4a37MGhQ5WgjDhvAk_A/view?usp=sharing)
+- 📄 Know about my experiences [![Resume](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)(https://drive.google.com/file/d/1S8MGjBBPn-8mX4a37MGhQ5WgjDhvAk_A/view?usp=sharing)]
 
 - ⚡ Fun fact **I'm a food lover and I can cook 10 different cuisines**
-
+https://drive.google.com/file/d/1S8MGjBBPn-8mX4a37MGhQ5WgjDhvAk_A/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
