@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **I am currently working on several projects and I am always looking for help and contributions. I am particularly interested in finding people who can help me with: - Web development - Machine learning - Artificial Intelligence - Internet of Things If you have experience in any of these areas and you want to contribute to my projects, please don't hesitate to reach out to me. I am looking for both short-term and long-term contributions. Let's build something great together!**
 
-- 💬 Ask me about [![Python]https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue] , Java , MERN**
+- 💬 Ask me about [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)] ,** Java , C++, MERN**
 
 - 📫 How to reach me [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tabrez78546@gmail.com)
 
