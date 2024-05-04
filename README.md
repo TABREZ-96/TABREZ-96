@@ -1,6 +1,5 @@
 
-![TABREZ SAYED](![Designer (18)](https://github.com/TABREZ-96/TABREZ-96/assets/114156392/ca96d5d2-f5da-440b-8496-18c1d92f0325)
-)
+![Designer (18)](https://github.com/TABREZ-96/TABREZ-96/assets/114156392/ca96d5d2-f5da-440b-8496-18c1d92f0325)
 
 <h1 align="center">Ahoy, matey 🌠 I'm Tabrez Sayed</h1>
 <h3 align="center">Transforming ideas into reality with code💻</h3>
