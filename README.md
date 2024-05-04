@@ -1,5 +1,5 @@
 
-<img src="https://github.com/TABREZ-96/TABREZ-96/assets/114156392/b88e4fd0-bddb-4ca8-961c-3c94ecff5bcc" width="1000" height="300">
+<img src="https://github.com/TABREZ-96/TABREZ-96/assets/114156392/b88e4fd0-bddb-4ca8-961c-3c94ecff5bcc" width="900" height="300">
 
 
 
@@ -10,7 +10,7 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabrez-96&label=Profile%20views&color=0e75b6&style=flat" alt="tabrez-96" /> </p>
 
-I'm Tabrez Sayed, an AI/ML Developer at Flable.ai and an Intel Innovator. Welcome to my GitHub universe where algorithms come to life and data dances to the rhythm of neural networks.
+I'm Tabrez Sayed, an **AI/ML Developer at Flable.ai and an Intel Innovator**. Welcome to my GitHub universe where algorithms come to life and data dances to the rhythm of neural networks.
 
 !AI/ML Developer
 
