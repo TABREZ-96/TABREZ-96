@@ -1,5 +1,6 @@
 
-![new git](https://github.com/TABREZ-96/TABREZ-96/assets/114156392/b88e4fd0-bddb-4ca8-961c-3c94ecff5bcc)
+<img src="https://github.com/TABREZ-96/TABREZ-96/assets/114156392/b88e4fd0-bddb-4ca8-961c-3c94ecff5bcc" width="500" height="300">
+
 
 
 <h1 align="center">Ahoy, matey 🌠 I'm Tabrez Sayed</h1>
