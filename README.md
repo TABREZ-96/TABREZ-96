@@ -9,20 +9,36 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabrez-96&label=Profile%20views&color=0e75b6&style=flat" alt="tabrez-96" /> </p>
 
-- 🔭 I’m currently working on **SnapChef**
+I'm Tabrez Sayed, an AI/ML Developer at Flable.ai and an Intel Innovator. Welcome to my GitHub universe where algorithms come to life and data dances to the rhythm of neural networks.
 
-- 🌱 I’m currently learning **JAVA,Python,AI & Exploring Chat-gpt and some other Ai Tools**
-
-- 👯 I’m looking to collaborate on **I am always open to new opportunities to collaborate on projects and learn from other developers. I am particularly interested in working on projects related to: - Web development - Machine learning - Artificial Intelligence - Internet of Things If you have a project that you think I would be a good fit for, please don't hesitate to reach out to me. I am available for both short-term and long-term collaborations. Let's build something great together!**
-
-- 🤝 I’m looking for help with **I am currently working on several projects and I am always looking for help and contributions. I am particularly interested in finding people who can help me with: - Web development - Machine learning - Artificial Intelligence - Internet of Things If you have experience in any of these areas and you want to contribute to my projects, please don't hesitate to reach out to me. I am looking for both short-term and long-term contributions. Let's build something great together!**
-
-- 💬 Ask me about ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) **Java , C++, MERN**
-
-- 📫 How to reach me [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tabrez78546@gmail.com)
+!AI/ML Developer
 
 
+## About Me 🚀
+
+- 🤖 Crafting intelligent systems at **Flable.ai**
+- 🌟 Shining as an **Intel Innovator**
+- 🧠 Specializing in **Natural Language Processing**, **Machine Learning**, **Artificial Intelegence**, **Generative ai**
+- 🌱 Growing one commit at a time
+- 📚 Lifelong learner and knowledge seeker
+- 🤝 Open for collaborations in AI/ML universe
 - ⚡ Fun fact **I'm a food lover and I can cook 10 different cuisines**
+
+## My Work 🛠️
+
+Here you'll find a constellation of projects ranging from small scripts that make life easier, to colossal neural networks that challenge the status quo.
+
+- 🧬 **SnapChef**: Generate Recipe with Just an image.
+- 📈 **Voice Of Customer**: Perform sentiment analysis on Amazon product reviews.
+- 🤖 **CardicCare**: Utilizes advanced algorithms and machine learning models to detect heart disease through non-invasive medical data analysis, empowering patients to take an active role in managing their health.
+
+## Intel Innovations 💡
+
+As an Intel Innovator, I'm at the forefront of cutting-edge technology, pushing the boundaries of what's possible with AI.
+
+- 🏆 Contributed to Intels OpenVino Projects.
+- 🎤 Ateended Intel Events
+- 🤝 Collaborating with a global network of brilliant minds
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
